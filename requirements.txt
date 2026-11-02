@@ -2,6 +2,7 @@ streamlit
 scikit-learn
 numpy 
 scipy
+Pandas
  
   
  
